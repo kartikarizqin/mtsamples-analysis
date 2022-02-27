@@ -1,3 +1,3 @@
-# scrap-mtsamples
+# mtsamples-analysis
 
-Scraping data from mtsamples.com, Medical Specialty: Psychiatry/Psychology
+Analyzing medical transcription from mtsamples.com, medical specialty: Psychiatry/Psychology
